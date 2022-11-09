@@ -1,9 +1,6 @@
 # Exorde-labs
 <b>A first "beta" Linux version of the participation module is available</b>
-- Source
-
-
-https://github.com/exorde-labs/ExordeModuleCLI/tree/main
+- Source https://github.com/exorde-labs/ExordeModuleCLI/tree/main
 # Setup VPS
 <table border="1px">
   <tr>
