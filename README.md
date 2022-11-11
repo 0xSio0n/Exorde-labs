@@ -46,7 +46,7 @@ Ganti Address0x dengan Address kalian. <b>CONTOH :</b>
  
 <img width="793" alt="Screenshot 2022-11-09 at 3 51 21 PM" src="https://user-images.githubusercontent.com/82705116/200785526-146e22d5-95e2-40ad-86b9-65fc0a4943e3.png">
 
-<b>UPDATE!!</b>
+## UPDATE!!
 Jika kalian sudah memakai tutor diatas, silahkan update exorde kalian!!
 
 
