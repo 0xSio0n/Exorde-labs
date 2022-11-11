@@ -50,7 +50,10 @@ Ganti Address0x dengan Address kalian. <b>CONTOH :</b>
 Jika kalian sudah memakai tutor diatas, silahkan update exorde kalian!!
 
 
-    docker rm Exorde
+    docker stop Exorde 
+    cd ExordeModuleCLI/
+    git pull
+    docker build -t exorde-cli .
     docker run -d -it --name Exorde exorde-cli -m $WALLET_ADDRESS -l 4
     docker logs -f Exorde
 
