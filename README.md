@@ -38,10 +38,17 @@ Ganti Address0x dengan Address kalian. <b>CONTOH :</b>
     docker run -it exorde-cli -m 0xfB4280EB536b05c0AsEdEAFA8dc7C1CC69EBf2Db -l 2
 <b><i>Tunggu sampai selesai dan Exorde sudah berjalan. Kalian juga bisa menutup screen dengan cara</i></b>
 
+
     Control + A dan D
     
  Hasil jika kalian sukses menjalankan Exorde Labs
 <img width="793" alt="Screenshot 2022-11-09 at 3 51 21 PM" src="https://user-images.githubusercontent.com/82705116/200785526-146e22d5-95e2-40ad-86b9-65fc0a4943e3.png">
+
+<b>UPDATE!!</b>
+Jika kalian sudah memakai tutor diatas, silahkan update exorde kalian!!
+    docker rm Exorde
+    docker run -d -it --name Exorde exorde-cli -m $WALLET_ADDRESS -l 4
+    docker logs -f Exorde
 
 ## Bantuan
 Untuk melihat kembali screen Exorde kita bisa menggunakan <b>Command</b> dibawah ini.
