@@ -20,7 +20,7 @@
 
     git clone https://github.com/exorde-labs/ExordeModuleCLI.git
     
-## 2. Setup & Menajalankan Node
+## 2. Setup & Menajalankan Node / Jika Kalian Baru Memulai, Lompati Langkah ini (Langsung ke Bagian Update!!)
 ### 2.1 Masuk ke folder Exorde Labs
 Untuk menjalankan node kita harus masuk ke foldernya terlebih dahulu.
 
