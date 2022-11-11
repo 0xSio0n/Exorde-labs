@@ -42,6 +42,8 @@ Ganti Address0x dengan Address kalian. <b>CONTOH :</b>
     Control + A dan D
     
  Hasil jika kalian sukses menjalankan Exorde Labs
+ 
+ 
 <img width="793" alt="Screenshot 2022-11-09 at 3 51 21 PM" src="https://user-images.githubusercontent.com/82705116/200785526-146e22d5-95e2-40ad-86b9-65fc0a4943e3.png">
 
 <b>UPDATE!!</b>
